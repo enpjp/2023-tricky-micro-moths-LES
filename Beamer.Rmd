@@ -11,10 +11,54 @@ output:
           in_header: "preamble.tex" 
     keep_tex:  true
 ---
+
 ```{r child = "_header.Rmd"}
 ```
 
+# Introduction {.unnumbered}
 
-# Introduction {-}
+Identifying micromoths can be a challenging task due to their small size and often subtle differences in appearance. Micromoths belong to the microlepidoptera group, which includes many small moths. Here are some general tips to help you identify these tricky little insects:
 
--   The purpose of document is to provide visualisations 
+# Size
+
+-   Micromoths are generally small, with wingspans usually less than 20 mm (0.79 inches).
+-   Keep in mind that size alone is not a definitive characteristic, as there are larger moths that might still be considered microlepidoptera.
+
+# Wing Shape and Venation:
+
+-   Pay attention to the shape of the wings and their venation (pattern of veins). Different micromoth species may have distinct wing shapes and vein patterns.
+-   Some micromoths have narrow, pointed wings, while others may have broader wings.
+
+# Coloration and Patterns:
+
+-   Observe the coloration and patterns on the wings. Micromoths can have intricate patterns, even though they might be subtle.
+-   Look for distinctive markings such as spots, lines, or bands on the wings.
+
+# Antennae:
+
+-   Examine the antennae. The shape and characteristics of the antennae can be useful for identification.
+-   Micromoths may have thread-like or feathery antennae.
+
+# Resting Posture:
+
+-   Take note of the moth's resting posture. Some micromoths hold their wings flat, while others may fold their wings around their bodies.
+
+# Habitat and Behavior:
+
+-   Consider the habitat in which you find the moth. Different micromoth species may prefer specific environments.
+-   Note the behavior of the moth, such as its flight pattern and feeding habits.
+
+# **Use a Field Guide:**
+
+-   A regional field guide to moths and butterflies can be a valuable resource. These guides often provide images, descriptions, and information on distribution.
+-   Online resources and mobile apps dedicated to moth identification can also be helpful.
+
+# Photography:
+
+-   If possible, take clear photographs of the micromoth from various angles. This can be useful for later reference or for seeking assistance from experts or online communities dedicated to moth identification.
+
+# Checklist of Common Micromoth Families:
+
+-   Familiarize yourself with common micromoth families in your region. This can help narrow down possibilities.
+
+Remember that micromoth identification can be challenging, and sometimes it may require microscopic examination of specific features. If you're having difficulty, reaching out to entomologists, local insect groups, or online forums dedicated to moth identification can provide valuable assistance.
