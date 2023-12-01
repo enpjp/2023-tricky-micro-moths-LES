@@ -61,6 +61,20 @@ for(file.r in function.path) {
 
 ```
 
+
+```{r}
+my.jpeg.files <- list.files(
+  "." ,
+  pattern = ".jpg$|jpeg$", # Make a suitable filter.
+  full.names = TRUE,
+  recursive = TRUE) %>% as_tibble()
+
+colnames(my.jpeg.files) <- "image.path"
+
+```
+
+
+
 ```{r refreshCache, eval=FALSE}
 # Refresh the data cache
 

@@ -23,15 +23,44 @@ output:
 -   The first (and current) editions of "The Field Guide To The Smaller Lepidoptera" contains no illustrations of adult moths at all.
 
 # Wot! No Illustrations?
+Don't worry, I will use them later in this presentation.
+
+
 -   Without illustrations the emphasis for identification rested on descriptions of the larval behaviour and food plants plus the overall appearance of the adult being consistent with the overall family and genus of the specimen.
 -   Just to emphasise, you had to be really proficient with your plant identification too.
 -   My old copy of Clapham, Tutin, and Warburgh "The Excursion Flora Of The British Isle" was also without images.
 -   To those of you only used to modern illustrated field guides this must sound very strange, but the point I make is that a good identification is based on a collection of evidence which is used to eliminate all but one possibility.
 
-# Getting Started
--   Identifying micro-moths is a challenging task due to their small size and often subtle differences in appearance.
--   The temptation for beginners looking to identify wild specimens from any group of plant or animal is to 'pattern match' from a field guide, possibly with the help of photographs taken on a mobile phone.
+# First Steps
+-   
+-   
+-   
 -   The availability of 'Apps' that seek to make an identification from such photographs, especially when they work on a common species, reinforces this approach.
+
+
+```{r  warning=FALSE, message=FALSE, eval=TRUE}
+
+# Create two column beamer slide
+header.text <- "First Steps"
+bullets.text <- list(
+"Light traps catch fewer moths these days, so the micro-moths are more obvious.",
+"The publication of the excellent illustrated 'Field Guide to the Micro-Moths of Great Britain and Ireland' has helped popularise this group further.",
+"BUT, the temptation for beginners is to 'pattern match' from a field guide.",
+"The availability of 'Apps' reinforces this approach."
+  
+)
+supporting.image <- "micro-field-guide.jpg"
+supporting.text <- "Field Guide to the Micro Moths"
+
+beamer.bullets.by.image(Header.text = header.text,
+                          heading.level = 1,
+                           Bullets.text = bullets.text,
+                           Supporting.image = supporting.image,
+                           Supporting.text = supporting.text )
+
+
+```
+
 
 
 # Size
