@@ -62,53 +62,126 @@ beamer.bullets.by.image(Header.text = header.text,
 ```
 
 
+```{r  warning=FALSE, message=FALSE, eval=TRUE}
 
-# Size
+# Create two column beamer slide
+header.text <- "Identification Is A Process"
+bullets.text <- list(
+"Examine your specimen closely.",
+"Treat ID as process and start by writing down everything that you know and can see.",
+"Use these notes to try and work out the Family.",
+"There is a good visual key to families in 'Field Guide to the Micro-Moths of Great Britain and Ireland'.",
+"Lepidoptera keys to species level are few and far between."
+  
+)
+supporting.image <- "micro-lep-key.jpg"
+supporting.text <- "A key to the Micro Moths"
 
--   Micromoths are generally small, with wingspans usually less than 20 mm (0.79 inches).
--   Keep in mind that size alone is not a definitive characteristic, as there are larger moths that might still be considered microlepidoptera.
+beamer.bullets.by.image(Header.text = header.text,
+                          heading.level = 1,
+                           Bullets.text = bullets.text,
+                           Supporting.image = supporting.image,
+                           Supporting.text = supporting.text )
 
-# Wing Shape and Venation:
 
--   Pay attention to the shape of the wings and their venation (pattern of veins). Different micromoth species may have distinct wing shapes and vein patterns.
--   Some micromoths have narrow, pointed wings, while others may have broader wings.
+```
 
-# Coloration and Patterns:
 
--   Observe the coloration and patterns on the wings. Micromoths can have intricate patterns, even though they might be subtle.
--   Look for distinctive markings such as spots, lines, or bands on the wings.
+```{r  warning=FALSE, message=FALSE, eval=TRUE}
 
-# Antennae:
+# Create two column beamer slide
+header.text <- "Candidates For ID"
+bullets.text <- list(
+"This is a tedious and time-consuming process.",
+"You should now have a list that includes: size, locality and type of habitat; date; and other obvious features.",
+"A photograph is also helpful - look at the posture and position of the antennae."
+  
+)
+supporting.image <- "Pcontaminella-PML-2021.jpg"
+supporting.text <- "What can we see here?"
 
--   Examine the antennae. The shape and characteristics of the antennae can be useful for identification.
--   Micromoths may have thread-like or feathery antennae.
+beamer.bullets.by.image(Header.text = header.text,
+                          heading.level = 1,
+                           Bullets.text = bullets.text,
+                           Supporting.image = supporting.image,
+                           Supporting.text = supporting.text )
 
-# Resting Posture:
 
--   Take note of the moth's resting posture. Some micromoths hold their wings flat, while others may fold their wings around their bodies.
+```
 
-# Habitat and Behavior:
 
--   Consider the habitat in which you find the moth. Different micromoth species may prefer specific environments.
--   Note the behavior of the moth, such as its flight pattern and feeding habits.
 
-# **Use a Field Guide:**
 
--   A regional field guide to moths and butterflies can be a valuable resource. These guides often provide images, descriptions, and information on distribution.
--   Online resources and mobile apps dedicated to moth identification can also be helpful.
+```{r  warning=FALSE, message=FALSE, eval=TRUE}
 
-# Photography:
+# Create two column beamer slide
+header.text <- "Getting To The Family"
+bullets.text <- list(
+"The antennae are laying flush along the body",
+"This is a member of the Pyraloidea family.",
+"The face has a distinctive 'nose' and face:",
+"So this is a member of the Crambinae subfamily, which are colloquially known as 'Grass moths'. ",
+"*We have reduced the number of candidate species to about 17*."
+  
+)
+supporting.image <- "Pcontaminella-PML-2021.jpg"
+supporting.text <- "More  text"
 
--   If possible, take clear photographs of the micromoth from various angles. This can be useful for later reference or for seeking assistance from experts or online communities dedicated to moth identification.
+beamer.bullets.by.image(Header.text = header.text,
+                          heading.level = 1,
+                           Bullets.text = bullets.text,
+                           Supporting.image = supporting.image,
+                           Supporting.text = supporting.text )
 
-# Checklist of Common Micromoth Families:
 
--   Familiarize yourself with common micromoth families in your region. This can help narrow down possibilities.
+```
 
-Remember that micromoth identification can be challenging, and sometimes it may require microscopic examination of specific features. If you're having difficulty, reaching out to entomologists, local insect groups, or online forums dedicated to moth identification can provide valuable assistance.
 
-# Paul's Notes
+```{r  warning=FALSE, message=FALSE, eval=TRUE}
 
--   We are talking about the tricky moths, so flicking through pages of a book and hoping get an ID is not really going to work
--   We need to be systematic
--   Systematic identification
+# Create two column beamer slide
+header.text <- "The Answer Must Be In This Book"
+bullets.text <- list(
+"Text",
+"Text.",
+"Text."
+  
+)
+supporting.image <- "placeholder.jpg"
+supporting.text <- "More  text"
+
+beamer.bullets.by.image(Header.text = header.text,
+                          heading.level = 1,
+                           Bullets.text = bullets.text,
+                           Supporting.image = supporting.image,
+                           Supporting.text = supporting.text )
+
+
+```
+
+
+
+```{r  warning=FALSE, message=FALSE, eval=TRUE}
+
+# Create two column beamer slide
+header.text <- "Now we know it is a Cranbid (Grass Moth)"
+bullets.text <- list(
+"Date: 2021-07-25, VC55; Recorder: Pete Leonard; Size: FL 12 mm.",
+"Could this be *Pediasia contaminella* which is rare in VC55?",
+"This specimen lacks the cross lines the dark point in the discal region typical of *Pediasia contaminella*.",
+"But *Pediasia contaminella* said to have a distinctive upwards resting posture."
+  
+)
+supporting.image <- "PJP20220218-0001a.jpg"
+supporting.text <- "The set moth is not a perfect match for any of the 17 species. "
+
+beamer.bullets.by.image(Header.text = header.text,
+                          heading.level = 1,
+                           Bullets.text = bullets.text,
+                           Supporting.image = supporting.image,
+                           Supporting.text = supporting.text )
+
+
+```
+Specimens seen in Sussex by PJP were all well marked and instantly recognisable in both posture and appearance.
+

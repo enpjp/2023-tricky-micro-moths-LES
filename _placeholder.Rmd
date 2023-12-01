@@ -1,0 +1,25 @@
+
+
+
+```{r  warning=FALSE, message=FALSE, eval=TRUE}
+
+# Create two column beamer slide
+header.text <- "Placeholder"
+bullets.text <- list(
+"Text",
+"Text.",
+"Text."
+  
+)
+supporting.image <- "placeholder.jpg"
+supporting.text <- "More  text"
+
+beamer.bullets.by.image(Header.text = header.text,
+                          heading.level = 1,
+                           Bullets.text = bullets.text,
+                           Supporting.image = supporting.image,
+                           Supporting.text = supporting.text )
+
+
+```
+
