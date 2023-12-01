@@ -1,5 +1,5 @@
 ---
-title: "A nice presentation"
+title: "Identifying Those Tricky Little Micro-moths"
 author: Paul J. Palmer
 output: 
   beamer_presentation:
@@ -15,9 +15,24 @@ output:
 ```{r child = "_header.Rmd"}
 ```
 
-# Introduction {.unnumbered}
+# What Is A Micro-moth?
+-   This is a tricky question to answer as there no taxonomic difference, as in butterflies and moths. Even that is a bit blurred.
+-   So far as I can tell, the larger moths are those that were described in South vols 1 and 2, and the rest are the micro-moths.
+-   In the olden days when we used a light trap there we so many large moths that we were never tempted by the micro's that were trampled by the Noctua pronuba (Large Yellow Underwing) which came in their hundreds.
+-   Micro's were collected by rearing out series collected off food plants and mines.
+-   The first (and current) editions of "The Field Guide To The Smaller Lepidoptera" contains no illustrations of adult moths at all.
 
-Identifying micromoths can be a challenging task due to their small size and often subtle differences in appearance. Micromoths belong to the microlepidoptera group, which includes many small moths. Here are some general tips to help you identify these tricky little insects:
+# Wot! No Illustrations?
+-   Without illustrations the emphasis for identification rested on descriptions of the larval behaviour and food plants plus the overall appearance of the adult being consistent with the overall family and genus of the specimen.
+-   Just to emphasise, you had to be really proficient with your plant identification too.
+-   My old copy of Clapham, Tutin, and Warburgh "The Excursion Flora Of The British Isle" was also without images.
+-   To those of you only used to modern illustrated field guides this must sound very strange, but the point I make is that a good identification is based on a collection of evidence which is used to eliminate all but one possibility.
+
+# Getting Started
+-   Identifying micro-moths is a challenging task due to their small size and often subtle differences in appearance.
+-   The temptation for beginners looking to identify wild specimens from any group of plant or animal is to 'pattern match' from a field guide, possibly with the help of photographs taken on a mobile phone.
+-   The availability of 'Apps' that seek to make an identification from such photographs, especially when they work on a common species, reinforces this approach.
+
 
 # Size
 
@@ -62,3 +77,9 @@ Identifying micromoths can be a challenging task due to their small size and oft
 -   Familiarize yourself with common micromoth families in your region. This can help narrow down possibilities.
 
 Remember that micromoth identification can be challenging, and sometimes it may require microscopic examination of specific features. If you're having difficulty, reaching out to entomologists, local insect groups, or online forums dedicated to moth identification can provide valuable assistance.
+
+# Paul's Notes
+
+-   We are talking about the tricky moths, so flicking through pages of a book and hoping get an ID is not really going to work
+-   We need to be systematic
+-   Systematic identification
