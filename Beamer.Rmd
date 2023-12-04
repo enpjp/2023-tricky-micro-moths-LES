@@ -31,11 +31,6 @@ Don't worry, I will use them later in this presentation.
 -   My old copy of Clapham, Tutin, and Warburgh "The Excursion Flora Of The British Isle" was also without images.
 -   To those of you only used to modern illustrated field guides this must sound very strange, but the point I make is that a good identification is based on a collection of evidence which is used to eliminate all but one possibility.
 
-# First Steps
--   
--   
--   
--   The availability of 'Apps' that seek to make an identification from such photographs, especially when they work on a common species, reinforces this approach.
 
 
 ```{r  warning=FALSE, message=FALSE, eval=TRUE}
@@ -90,9 +85,9 @@ beamer.bullets.by.image(Header.text = header.text,
 ```{r  warning=FALSE, message=FALSE, eval=TRUE}
 
 # Create two column beamer slide
-header.text <- "Candidates For ID"
+header.text <- "A Tricky Moth For ID"
 bullets.text <- list(
-"This is a tedious and time-consuming process.",
+  "Making a list of candidate species is a tedious and time-consuming process.",
 "You should now have a list that includes: size, locality and type of habitat; date; and other obvious features.",
 "A photograph is also helpful - look at the posture and position of the antennae."
   
@@ -109,7 +104,7 @@ beamer.bullets.by.image(Header.text = header.text,
 
 ```
 
-
+We will illustrate the ID process by following one moth tricky moth through its journey.
 
 
 ```{r  warning=FALSE, message=FALSE, eval=TRUE}
@@ -118,14 +113,14 @@ beamer.bullets.by.image(Header.text = header.text,
 header.text <- "Getting To The Family"
 bullets.text <- list(
 "The antennae are laying flush along the body",
-"This is a member of the Pyraloidea family.",
+"This is a member of the Pyraloidea super-family.",
 "The face has a distinctive 'nose' and face:",
-"So this is a member of the Crambinae subfamily, which are colloquially known as 'Grass moths'. ",
+"So this is a member of the Crambidae family, and a member of an informal group colloquially known as 'Grass moths'. ",
 "*We have reduced the number of candidate species to about 17*."
   
 )
 supporting.image <- "Pcontaminella-PML-2021.jpg"
-supporting.text <- "More  text"
+supporting.text <- "Note the posture of this living moth."
 
 beamer.bullets.by.image(Header.text = header.text,
                           heading.level = 1,
@@ -161,6 +156,57 @@ beamer.bullets.by.image(Header.text = header.text,
 
 
 
+
+
+```{r  warning=FALSE, message=FALSE, eval=TRUE}
+
+# Create two column beamer slide
+header.text <- "Confirming the ID"
+bullets.text <- list(
+"We have gone as far as we can with external features.",
+"The set moth, which by the way, was rather battered before setting, does not reveal any useful features for ID.",
+"The way forward is examination of the genitalia - **GenDet**.",
+"We start by relaxing the dead moth"
+  
+)
+supporting.image <- "relaxing.jpg"
+supporting.text <- "More  text"
+
+beamer.bullets.by.image(Header.text = header.text,
+                          heading.level = 1,
+                           Bullets.text = bullets.text,
+                           Supporting.image = supporting.image,
+                           Supporting.text = supporting.text )
+
+
+```
+
+
+```{r  warning=FALSE, message=FALSE, eval=TRUE}
+
+# Create two column beamer slide
+header.text <- "Setting"
+bullets.text <- list(
+"The relaxed moth is pinned and spread on a setting board.",
+"Note how everything is carefully labelled.",
+"It is then dried for a couple of weeks.",
+"This process allows us to preserve as much of the specimen as possible."
+  
+)
+supporting.image <- "setting_moths.jpg"
+supporting.text <- "A group of moths on the setting board."
+
+beamer.bullets.by.image(Header.text = header.text,
+                          heading.level = 1,
+                           Bullets.text = bullets.text,
+                           Supporting.image = supporting.image,
+                           Supporting.text = supporting.text )
+
+
+```
+
+
+
 ```{r  warning=FALSE, message=FALSE, eval=TRUE}
 
 # Create two column beamer slide
@@ -184,4 +230,148 @@ beamer.bullets.by.image(Header.text = header.text,
 
 ```
 Specimens seen in Sussex by PJP were all well marked and instantly recognisable in both posture and appearance.
+
+
+```{r  warning=FALSE, message=FALSE, eval=TRUE}
+
+# Create two column beamer slide
+header.text <- "Clarification"
+bullets.text <- list(
+"The abdomen is removed from the moth and 'cooked' for 30 minutes at 70 degrees in 10% KOH.",
+"A label is place in the tube using paper and ink that can survive this process.",
+"A body swap would be a disaster."
+
+  
+)
+supporting.image <- "clarification.jpg"
+supporting.text <- "Equiment used for clarification"
+
+beamer.bullets.by.image(Header.text = header.text,
+                          heading.level = 1,
+                           Bullets.text = bullets.text,
+                           Supporting.image = supporting.image,
+                           Supporting.text = supporting.text )
+
+
+```
+
+This process is loosely called *clarification* as it dissolves the soft tissues. Different authors use the term to describe rather different processes.
+
+
+```{r  warning=FALSE, message=FALSE, eval=TRUE}
+
+# Create two column beamer slide
+header.text <- "Dissecting"
+bullets.text <- list(
+"The genitalia are very small so a range of bought and homemade tools are used to dissect out the parts needed.",
+"They are also very fragile, so you only get one chance on a moth this size.",
+"No pressure when you are doing this for someone else!"
+  
+)
+supporting.image <- "dissecting.jpg"
+supporting.text <- "The smaller the dissection the more important the work space."
+
+beamer.bullets.by.image(Header.text = header.text,
+                          heading.level = 1,
+                           Bullets.text = bullets.text,
+                           Supporting.image = supporting.image,
+                           Supporting.text = supporting.text )
+
+
+```
+
+
+```{r  warning=FALSE, message=FALSE, eval=TRUE}
+
+# Create two column beamer slide
+header.text <- "Mounting The Dissection"
+bullets.text <- list(
+"The parts are washed in de-ionised water.",
+"Soaked in a little aqueous mountant.",
+"Placed on a slide and a coverslip placed on top.",
+"Finally, a temporary label is glued to the slide"
+  
+)
+supporting.image <- "mounted_slides.jpg"
+supporting.text <- "Slides are left for a few days to cure."
+
+beamer.bullets.by.image(Header.text = header.text,
+                          heading.level = 1,
+                           Bullets.text = bullets.text,
+                           Supporting.image = supporting.image,
+                           Supporting.text = supporting.text )
+
+
+```
+
+
+```{r  warning=FALSE, message=FALSE, eval=TRUE}
+
+# Create two column beamer slide
+header.text <- "Ringing The Slide"
+bullets.text <- list(
+"Text",
+"Text.",
+"Text."
+  
+)
+supporting.image <- "placeholder.jpg"
+supporting.text <- "More  text"
+
+beamer.bullets.by.image(Header.text = header.text,
+                          heading.level = 1,
+                           Bullets.text = bullets.text,
+                           Supporting.image = supporting.image,
+                           Supporting.text = supporting.text )
+
+
+```
+
+
+```{r  warning=FALSE, message=FALSE, eval=TRUE}
+
+# Create two column beamer slide
+header.text <- "Examination Under The Microscope"
+bullets.text <- list(
+"Text",
+"Text.",
+"Text."
+  
+)
+supporting.image <- "PJP20220218-001-raw-dissection.jpg"
+supporting.text <- "Raw image"
+
+beamer.bullets.by.image(Header.text = header.text,
+                          heading.level = 1,
+                           Bullets.text = bullets.text,
+                           Supporting.image = supporting.image,
+                           Supporting.text = supporting.text )
+
+
+```
+
+
+```{r  warning=FALSE, message=FALSE, eval=TRUE}
+
+# Create two column beamer slide
+header.text <- "Finshed Image"
+bullets.text <- list(
+"Text",
+"Text.",
+"Text."
+  
+)
+supporting.image <- "PJP20220218-001-developed-dissection.jpg"
+supporting.text <- "More  text"
+
+beamer.bullets.by.image(Header.text = header.text,
+                          heading.level = 1,
+                           Bullets.text = bullets.text,
+                           Supporting.image = supporting.image,
+                           Supporting.text = supporting.text )
+
+
+```
+
+
 
