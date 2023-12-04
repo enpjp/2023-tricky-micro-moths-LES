@@ -110,17 +110,16 @@ We will illustrate the ID process by following one moth tricky moth through its 
 ```{r  warning=FALSE, message=FALSE, eval=TRUE}
 
 # Create two column beamer slide
-header.text <- "Getting To The Family"
+header.text <- "Checking The Basics"
 bullets.text <- list(
-"The antennae are laying flush along the body",
-"This is a member of the Pyraloidea super-family.",
-"The face has a distinctive 'nose' and face:",
-"So this is a member of the Crambidae family, and a member of an informal group colloquially known as 'Grass moths'. ",
-"*We have reduced the number of candidate species to about 17*."
+"First check that our specimen is a moth.",
+"This is not as daft as it sounds as it is not unheard of for a Caddis (Order: Trichoptera) to be queried as a moth.",
+"In this case the overall appearance is definitely Lepidoptera."
+
   
 )
-supporting.image <- "Pcontaminella-PML-2021.jpg"
-supporting.text <- "Note the posture of this living moth."
+supporting.image <- "order.jpg"
+supporting.text <- "Tree of life (biology)"
 
 beamer.bullets.by.image(Header.text = header.text,
                           heading.level = 1,
@@ -135,15 +134,17 @@ beamer.bullets.by.image(Header.text = header.text,
 ```{r  warning=FALSE, message=FALSE, eval=TRUE}
 
 # Create two column beamer slide
-header.text <- "The Answer Must Be In This Book"
+header.text <- "Checking External Features"
 bullets.text <- list(
-"Text",
-"Text.",
-"Text."
+
+"All the short jawed Lepidoptera are micro moths, so it is quite likely that you will come across them, especially those that might be tricky to ID.",
+"This specimen has a long coiled tongue, rather than short jaws, as have the majority of the Lepidoptera.",
+"The long long coiled tongue means that this moth is a member of the **Glossata**."
+
   
 )
-supporting.image <- "placeholder.jpg"
-supporting.text <- "More  text"
+supporting.image <- "suborder.jpg"
+supporting.text <- "Tree of life (biology)"
 
 beamer.bullets.by.image(Header.text = header.text,
                           heading.level = 1,
@@ -154,6 +155,52 @@ beamer.bullets.by.image(Header.text = header.text,
 
 ```
 
+
+
+
+```{r  warning=FALSE, message=FALSE, eval=TRUE}
+
+# Create two column beamer slide
+header.text <- "Getting To The Family"
+bullets.text <- list(
+  "The face has a distinctive 'nose' and face. Also the antennae are laying flush along the body:",
+  "This is a member of the **Pyraloidea** super-family."
+  
+)
+supporting.image <- "Pcontaminella-PML-2021.jpg"
+supporting.text <- "Note the posture."
+
+beamer.bullets.by.image(Header.text = header.text,
+                          heading.level = 1,
+                           Bullets.text = bullets.text,
+                           Supporting.image = supporting.image,
+                           Supporting.text = supporting.text )
+
+
+```
+
+
+```{r  warning=FALSE, message=FALSE, eval=TRUE}
+
+# Create two column beamer slide
+header.text <- "Following Branches Of The Tree"
+bullets.text <- list(
+"Now, the **Crambidae** family are very variable, but this moth is a member of the subfamily **Crambinae**, as the long wings can wrap tightly around the body. Colloquially these are known as 'Grass moths'.",
+"*We have reduced the number of candidate species to about 17*."
+  
+  
+)
+supporting.image <- "subfamily.jpg"
+supporting.text <- "*The Natural History Museum futher subdivide this group into tribes, but these do not seem to be in general use*."
+
+beamer.bullets.by.image(Header.text = header.text,
+                          heading.level = 1,
+                           Bullets.text = bullets.text,
+                           Supporting.image = supporting.image,
+                           Supporting.text = supporting.text )
+
+
+```
 
 
 
@@ -164,13 +211,12 @@ beamer.bullets.by.image(Header.text = header.text,
 header.text <- "Confirming the ID"
 bullets.text <- list(
 "We have gone as far as we can with external features.",
-"The set moth, which by the way, was rather battered before setting, does not reveal any useful features for ID.",
 "The way forward is examination of the genitalia - **GenDet**.",
 "We start by relaxing the dead moth"
   
 )
 supporting.image <- "relaxing.jpg"
-supporting.text <- "More  text"
+supporting.text <- "Relaxing chemicals are water based."
 
 beamer.bullets.by.image(Header.text = header.text,
                           heading.level = 1,
@@ -206,11 +252,10 @@ beamer.bullets.by.image(Header.text = header.text,
 ```
 
 
-
 ```{r  warning=FALSE, message=FALSE, eval=TRUE}
 
 # Create two column beamer slide
-header.text <- "Now we know it is a Cranbid (Grass Moth)"
+header.text <- "We know it is a **Crambinae** (Grass Moth)"
 bullets.text <- list(
 "Date: 2021-07-25, VC55; Recorder: Pete Leonard; Size: FL 12 mm.",
 "Could this be *Pediasia contaminella* which is rare in VC55?",
@@ -219,7 +264,7 @@ bullets.text <- list(
   
 )
 supporting.image <- "PJP20220218-0001a.jpg"
-supporting.text <- "The set moth is not a perfect match for any of the 17 species. "
+supporting.text <- "The set moth does not reveal any useful features for ID."
 
 beamer.bullets.by.image(Header.text = header.text,
                           heading.level = 1,
@@ -230,6 +275,8 @@ beamer.bullets.by.image(Header.text = header.text,
 
 ```
 Specimens seen in Sussex by PJP were all well marked and instantly recognisable in both posture and appearance.
+
+
 
 
 ```{r  warning=FALSE, message=FALSE, eval=TRUE}
@@ -315,7 +362,7 @@ bullets.text <- list(
 "Text."
   
 )
-supporting.image <- "placeholder.jpg"
+supporting.image <- "slideringing.jpg"
 supporting.text <- "More  text"
 
 beamer.bullets.by.image(Header.text = header.text,
@@ -354,15 +401,40 @@ beamer.bullets.by.image(Header.text = header.text,
 ```{r  warning=FALSE, message=FALSE, eval=TRUE}
 
 # Create two column beamer slide
-header.text <- "Finshed Image"
+header.text <- "The Finsished Dissection"
 bullets.text <- list(
-"Text",
-"Text.",
-"Text."
+"Check the dissection against multiple sources as this specimen is not typical.",
+"https://mothdissection.co.uk",
+"https://lepiforum.org",
+"Ask someone who is familiar with the species."
   
 )
 supporting.image <- "PJP20220218-001-developed-dissection.jpg"
-supporting.text <- "More  text"
+supporting.text <- "Few keys for dissections."
+
+beamer.bullets.by.image(Header.text = header.text,
+                          heading.level = 1,
+                           Bullets.text = bullets.text,
+                           Supporting.image = supporting.image,
+                           Supporting.text = supporting.text )
+
+
+```
+
+
+
+```{r  warning=FALSE, message=FALSE, eval=TRUE}
+
+# Create two column beamer slide
+header.text <- "Checking The ID"
+bullets.text <- list(
+"The dissection is compared with other close relatives.",
+"We try to eliminate related species not on the UK list.",
+"In this case we find no other candidates other than: *Pediasia contaminella.*"
+  
+)
+supporting.image <- "genus.jpg"
+supporting.text <- " "
 
 beamer.bullets.by.image(Header.text = header.text,
                           heading.level = 1,
