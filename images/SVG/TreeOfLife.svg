@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   sodipodi:docname="TreeOfLife.svg"
+   inkscape:export-filename="order.jpg"
+   inkscape:export-xdpi="120.95"
+   inkscape:export-ydpi="120.95"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.46850051"
+     inkscape:cx="580.57568"
+     inkscape:cy="800.42602"
+     inkscape:window-width="1792"
+     inkscape:window-height="1067"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer6" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker81"
+       refX="5"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path81" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker79"
+       refX="5"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path79" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker77"
+       refX="5"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path77" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker73"
+       refX="4"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path73" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker71"
+       refX="4"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path71" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker69"
+       refX="3"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path69" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker57"
+       refX="4"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path57" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker55"
+       refX="4"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path55" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker50"
+       refX="4"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path50" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker48"
+       refX="4"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path48" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker46"
+       refX="4"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path46" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker43"
+       refX="3"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path43" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="2"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g63"
+       transform="translate(39.865652,-29.779259)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         x="18.214758"
+         y="90.515755"
+         id="text14"><tspan
+           sodipodi:role="line"
+           id="tspan14"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+           x="18.214758"
+           y="90.515755">Class:</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.264583"
+           x="18.214758"
+           y="99.335205"
+           id="tspan15">Insecta</tspan></text>
+      <rect
+         style="fill:none;stroke:#ff0000;stroke-width:0.517035;stroke-dasharray:none"
+         id="rect57"
+         width="36.963207"
+         height="21.905674"
+         x="12.548918"
+         y="81.345757"
+         ry="1.0586514" />
+    </g>
+    <g
+       id="g73"
+       transform="translate(58.809,-26.622035)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         x="72.92865"
+         y="89.738037"
+         id="text12"><tspan
+           sodipodi:role="line"
+           id="tspan12"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+           x="72.92865"
+           y="89.738037">Subphylum:</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.264583"
+           x="72.92865"
+           y="98.557487"
+           id="tspan13">Hexapoda</tspan></text>
+      <rect
+         style="fill:none;stroke:#ff0000;stroke-width:0.502868;stroke-dasharray:none"
+         id="rect58"
+         width="48.14909"
+         height="20.462662"
+         x="69.941551"
+         y="81.945839"
+         ry="0.96893585" />
+    </g>
+    <g
+       id="g81"
+       transform="translate(36.708427,-27.107761)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         x="160.02733"
+         y="87.673698"
+         id="text6"><tspan
+           sodipodi:role="line"
+           id="tspan6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+           x="160.02733"
+           y="87.673698">Phylum:</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.264583"
+           x="160.02733"
+           y="96.493149"
+           id="tspan7">Arthropoda</tspan></text>
+      <rect
+         style="fill:none;stroke:#ff0000;stroke-width:0.564999;stroke-dasharray:none"
+         id="rect60"
+         width="47.358368"
+         height="19.914801"
+         x="155.8405"
+         y="80.155426"
+         ry="1.1384927" />
+    </g>
+    <g
+       id="g66"
+       transform="translate(50.308779,-29.536396)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         x="102.9741"
+         y="67.686592"
+         id="text4"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+           x="102.9741"
+           y="67.686592">Kingdom:</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.264583"
+           x="102.9741"
+           y="76.506042"
+           id="tspan5">Animalia</tspan></text>
+      <rect
+         style="fill:none;stroke:#ff0000;stroke-width:0.517122;stroke-dasharray:none"
+         id="rect61"
+         width="41.091801"
+         height="19.476952"
+         x="98.902657"
+         y="59.730953"
+         ry="1.0033391" />
+    </g>
+    <g
+       id="g67"
+       transform="translate(39.865652,-30.750713)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         x="52.555962"
+         y="66.932121"
+         id="text2"><tspan
+           sodipodi:role="line"
+           id="tspan2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+           x="52.555962"
+           y="66.932121">Domain:</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.264583"
+           x="52.555962"
+           y="75.751572"
+           id="tspan3">Eukaryota</tspan></text>
+      <rect
+         style="fill:none;stroke:#ff0000;stroke-width:0.564999;stroke-dasharray:none"
+         id="rect62"
+         width="42.743961"
+         height="18.700483"
+         x="48.998581"
+         y="60.119194"
+         ry="1.1384927" />
+    </g>
+    <g
+       id="g68"
+       transform="translate(35.736973,-31.23644)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         x="16.424551"
+         y="71.866211"
+         id="text1"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+           x="16.424551"
+           y="71.866211">Biota</tspan></text>
+      <rect
+         style="fill:none;stroke:#ff0000;stroke-width:0.564999;stroke-dasharray:none"
+         id="rect63"
+         width="26.714977"
+         height="13.843216"
+         x="12.143172"
+         y="62.415905"
+         ry="1.1384927" />
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker69)"
+       d="m 74.595123,38.101073 h 14.26911"
+       id="path68"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g68"
+       inkscape:connection-end="#g67" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker71)"
+       d="m 131.60819,38.718723 h 17.60325"
+       id="path70"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g67"
+       inkscape:connection-end="#g66" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker73)"
+       d="m 190.30324,39.933033 h 25.92487 v 13.11463"
+       id="path72"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g66" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker77)"
+       d="m 192.54893,65.555136 v -10e-7 h -15.64929"
+       id="path74"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0"
+       inkscape:connection-end="#g73" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker79)"
+       id="path78"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g73"
+       inkscape:connection-end="#g63"
+       d="m 128.75055,62.519335 -39.372773,0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Species"
+     style="display:inline">
+    <g
+       id="g33"
+       transform="translate(69.009266,-29.293532)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="84.030746"
+         y="189.43347"
+         id="text31"><tspan
+           sodipodi:role="line"
+           id="tspan31"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+           x="84.030746"
+           y="189.43347">Species:</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';stroke-width:0.264583"
+           x="84.030746"
+           y="198.25291"
+           id="tspan32">Pediasia contaminella</tspan></text>
+      <rect
+         style="fill:none;stroke:#008000;stroke-width:0.774008"
+         id="rect33"
+         width="95.914192"
+         height="23.055155"
+         x="79.354416"
+         y="179.69562"
+         ry="1.2205353" />
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
+       d="M 87.036202,163.206 H 148.36368"
+       id="path35"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g35"
+       inkscape:connection-end="#g33" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Genus"
+     style="display:inline">
+    <g
+       id="g35"
+       style="stroke-width:0.5;stroke-dasharray:none"
+       transform="translate(14.364991,-26.864898)">
+      <g
+         id="g37"
+         transform="translate(9.2288106,1.7000441)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.5;stroke-dasharray:none"
+           x="29.386475"
+           y="186.5191"
+           id="text29"><tspan
+             sodipodi:role="line"
+             id="tspan29"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.5;stroke-dasharray:none"
+             x="29.386475"
+             y="186.5191">Genus:</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.5;stroke-dasharray:none"
+             x="29.386475"
+             y="195.33855"
+             id="tspan30">Pediasia</tspan></text>
+        <rect
+           style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-dasharray:none"
+           id="rect34"
+           width="39.393517"
+           height="21.907351"
+           x="24.048883"
+           y="177.41718"
+           ry="1.6236789" />
+      </g>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker46)"
+       d="m 67.339443,139.94364 v 12.30868"
+       id="path45"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g40"
+       inkscape:connection-end="#g35" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Tribe"
+     style="display:inline">
+    <g
+       id="g40"
+       transform="translate(-90.309153,-32.450757)">
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.264583"
+         x="139.64648"
+         y="159.07555"
+         id="text26"><tspan
+           sodipodi:role="line"
+           id="tspan26"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+           x="139.64648"
+           y="159.07555">Tribe:</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.264583"
+           x="139.64648"
+           y="167.89499"
+           id="tspan27">Crambini</tspan></text>
+      <rect
+         style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-dasharray:none"
+         id="rect35"
+         width="37.400967"
+         height="23.072027"
+         x="136.90541"
+         y="149.32237"
+         ry="1.6236789" />
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker43)"
+       d="M 108.98218,128.40763 H 83.997224"
+       id="path42"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g41"
+       inkscape:connection-end="#g40" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Subfamily"
+     style="display:inline">
+    <g
+       id="g41"
+       transform="translate(-101.89174,-33.422211)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         x="99.331154"
+         y="153.4897"
+         id="text24"
+         transform="translate(115.84586,6.3144494)"><tspan
+           sodipodi:role="line"
+           id="tspan24"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+           x="99.331154"
+           y="153.4897">Subfamily:</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.264583"
+           x="99.331154"
+           y="162.30914"
+           id="tspan25">Crambinae</tspan></text>
+      <rect
+         style="fill:none;stroke:#ff0000;stroke-width:0.564999;stroke-dasharray:none"
+         id="rect41"
+         width="47.115505"
+         height="23.072027"
+         x="210.87392"
+         y="150.03375"
+         ry="1.6236789" />
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker48)"
+       d="M 182.62933,128.14756 H 156.09768"
+       id="path47"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g46"
+       inkscape:connection-end="#g41" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Family"
+     style="display:inline">
+    <g
+       id="g46"
+       transform="translate(33.551202,-25.893444)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         x="152.8382"
+         y="152.82227"
+         id="text22"><tspan
+           sodipodi:role="line"
+           id="tspan22"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+           x="152.8382"
+           y="152.82227">Family:</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.264583"
+           x="152.8382"
+           y="161.64171"
+           id="tspan23">Crambidae</tspan></text>
+      <rect
+         style="fill:none;stroke:#ff0000;stroke-width:0.506;stroke-dasharray:none"
+         id="rect46"
+         width="45.960541"
+         height="22.402788"
+         x="149.07812"
+         y="143.40372"
+         ry="1.3254449" />
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker50)"
+       d="m 206.76081,107.21357 0,10.2967"
+       id="path49"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g48"
+       inkscape:connection-end="#g46" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Superfamily"
+     style="display:inline">
+    <g
+       id="g48"
+       transform="translate(46.665828,-27.350625)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         x="137.70357"
+         y="120.46025"
+         id="text20"><tspan
+           sodipodi:role="line"
+           id="tspan20"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+           x="137.70357"
+           y="120.46025">Superfamily:</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.264583"
+           x="137.70357"
+           y="129.27969"
+           id="tspan21">Pyraloidea</tspan></text>
+      <rect
+         style="fill:none;stroke:#ff0000;stroke-width:0.515809;stroke-dasharray:none"
+         id="rect48"
+         width="53.964874"
+         height="23.364079"
+         x="133.11255"
+         y="111.20012"
+         ry="1.1384927" />
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker55)"
+       d="m 153.52574,93.595364 h 26.25264"
+       id="path54"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g50"
+       inkscape:connection-end="#g48" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Suborder"
+     style="display:inline">
+    <g
+       id="g50"
+       transform="translate(36.708427,-27.107761)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         x="76.093475"
+         y="118.92029"
+         id="text18"><tspan
+           sodipodi:role="line"
+           id="tspan18"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+           x="76.093475"
+           y="118.92029">Suborder:</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.264583"
+           x="76.093475"
+           y="127.73974"
+           id="tspan19">Glossata</tspan></text>
+      <rect
+         style="fill:none;stroke:#ff0000;stroke-width:0.564999;stroke-dasharray:none"
+         id="rect50"
+         width="46.386917"
+         height="22.829163"
+         x="70.430397"
+         y="109.28854"
+         ry="1.1384927" />
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker57)"
+       d="M 96.492955,93.848724 H 107.13882"
+       id="path56"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g52"
+       inkscape:connection-end="#g50" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="Order"
+     style="display:inline">
+    <g
+       id="g52"
+       transform="translate(36.708427,-27.107761)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         x="13.843217"
+         y="118.51736"
+         id="text16"><tspan
+           sodipodi:role="line"
+           id="tspan16"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+           x="13.843217"
+           y="118.51736">Order:</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.264583"
+           x="13.843217"
+           y="127.33681"
+           id="tspan17">Lepidoptera</tspan></text>
+      <rect
+         style="fill:none;stroke:#ff0000;stroke-width:0.564999;stroke-dasharray:none"
+         id="rect52"
+         width="50.272732"
+         height="23.072027"
+         x="9.511796"
+         y="109.42047"
+         ry="1.1384927" />
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker81)"
+       d="M 71.356589,73.472172 V 82.31271"
+       id="path80"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g63"
+       inkscape:connection-end="#g52" />
+  </g>
+</svg>
