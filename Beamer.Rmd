@@ -17,16 +17,17 @@ output:
 
 # What Is A Micro-moth?
 -   This is a tricky question to answer as there no taxonomic difference, as in butterflies and moths. Even that is a bit blurred.
--   So far as I can tell, the larger moths are those that were described in South vols 1 and 2, and the rest are the micro-moths.
--   In the olden days when we used a light trap there we so many large moths that we were never tempted by the micro's that were trampled by the Noctua pronuba (Large Yellow Underwing) which came in their hundreds.
+-   So far as I can tell, the larger moths are those that were described in South vols 1 and 2 "The Moths of the British Isles", and the rest are the micro-moths.
+-   In the olden days when we used a light trap there we so many large moths that we were never tempted by the micro's that were trampled by the *Noctua pronuba* (Large Yellow Underwing) which came in their hundreds.
 -   Micro's were collected by rearing out series collected off food plants and mines.
--   The first (and current) editions of "The Field Guide To The Smaller Lepidoptera" contains no illustrations of adult moths at all.
+-   The first (and current) editions of "The Field Guide To The Smaller Lepidoptera" contain no illustrations of adult moths at all.
 
 # Wot! No Illustrations?
 Don't worry, I will use them later in this presentation.
 
 
--   Without illustrations the emphasis for identification rested on descriptions of the larval behaviour and food plants plus the overall appearance of the adult being consistent with the overall family and genus of the specimen.
+-   Without illustrations the emphasis for identification rested on descriptions of the larval behaviour and food plants.
+-  Adults were set and pinned as a "series".
 -   Just to emphasise, you had to be really proficient with your plant identification too.
 -   My old copy of Clapham, Tutin, and Warburgh "The Excursion Flora Of The British Isle" was also without images.
 -   To those of you only used to modern illustrated field guides this must sound very strange, but the point I make is that a good identification is based on a collection of evidence which is used to eliminate all but one possibility.
@@ -62,8 +63,8 @@ beamer.bullets.by.image(Header.text = header.text,
 # Create two column beamer slide
 header.text <- "Identification Is A Process"
 bullets.text <- list(
+  "Treat ID as process and start by writing down everything that you know and can see.",
 "Examine your specimen closely.",
-"Treat ID as process and start by writing down everything that you know and can see.",
 "Use these notes to try and work out the Family.",
 "There is a good visual key to families in 'Field Guide to the Micro-Moths of Great Britain and Ireland'.",
 "Lepidoptera keys to species level are few and far between."
@@ -359,7 +360,7 @@ bullets.text <- list(
 "The parts are washed in de-ionised water.",
 "Soaked in a little aqueous mountant.",
 "Placed on a slide and a coverslip placed on top.",
-"Finally, a temporary label is glued to the slide"
+"Finally, a temporary label is glued to the slide."
   
 )
 supporting.image <- "mounted_slides.jpg"
@@ -373,6 +374,8 @@ beamer.bullets.by.image(Header.text = header.text,
 
 
 ```
+
+*Alcohol based mountants are more difficult to use*.
 
 
 ```{r  warning=FALSE, message=FALSE, eval=TRUE}
