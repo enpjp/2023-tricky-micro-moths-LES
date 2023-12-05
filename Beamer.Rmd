@@ -401,7 +401,7 @@ beamer.bullets.by.image(Header.text = header.text,
 ```{r  warning=FALSE, message=FALSE, eval=TRUE}
 
 # Create two column beamer slide
-header.text <- "The Finsished Dissection"
+header.text <- "The Finished Dissection"
 bullets.text <- list(
 "Check the dissection against multiple sources as this specimen is not typical.",
 "https://mothdissection.co.uk",
@@ -433,7 +433,7 @@ bullets.text <- list(
 "In this case we find no other candidates other than: *Pediasia contaminella.*"
   
 )
-supporting.image <- "genus.jpg"
+supporting.image <- "species.jpg"
 supporting.text <- " "
 
 beamer.bullets.by.image(Header.text = header.text,
@@ -446,4 +446,28 @@ beamer.bullets.by.image(Header.text = header.text,
 ```
 
 
+```{r  warning=FALSE, message=FALSE, eval=TRUE}
+
+# Create two column beamer slide
+header.text <- "To Recap"
+bullets.text <- list(
+"Identification of a tricky specimen is a tedious process.",
+"Most of the time it turns out to be an unusual form of a common species as moths are very variable in size and wing pattern.",
+"Environmental stress can cause size and colour variations.",
+"Confirming the ID of something unusual requires the collation of a lot of evidence."
+  
+)
+supporting.image <- "placeholder.jpg"
+supporting.text <- "More  text"
+
+beamer.bullets.by.image(Header.text = header.text,
+                          heading.level = 1,
+                           Bullets.text = bullets.text,
+                           Supporting.image = supporting.image,
+                           Supporting.text = supporting.text )
+
+
+```
+
+*But sometimes you get lucky!*
 
