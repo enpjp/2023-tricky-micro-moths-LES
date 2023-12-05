@@ -139,7 +139,7 @@ bullets.text <- list(
 
 "All the short jawed Lepidoptera are micro moths, so it is quite likely that you will come across them, especially those that might be tricky to ID.",
 "This specimen has a long coiled tongue, rather than short jaws, as have the majority of the Lepidoptera.",
-"The long long coiled tongue means that this moth is a member of the **Glossata**."
+"The long coiled tongue means that this moth is a member of the **Glossata**."
 
   
 )
@@ -161,10 +161,32 @@ beamer.bullets.by.image(Header.text = header.text,
 ```{r  warning=FALSE, message=FALSE, eval=TRUE}
 
 # Create two column beamer slide
-header.text <- "Getting To The Family"
+header.text <- "Getting To The Family 1"
 bullets.text <- list(
   "The face has a distinctive 'nose' and face. Also the antennae are laying flush along the body:",
   "This is a member of the **Pyraloidea** super-family."
+  
+)
+supporting.image <- "Pcontaminella-PML-2021.jpg"
+supporting.text <- "Note the posture."
+
+beamer.bullets.by.image(Header.text = header.text,
+                          heading.level = 1,
+                           Bullets.text = bullets.text,
+                           Supporting.image = supporting.image,
+                           Supporting.text = supporting.text )
+
+
+```
+
+```{r  warning=FALSE, message=FALSE, eval=TRUE}
+
+# Create two column beamer slide
+header.text <- "Getting To The Family 2"
+bullets.text <- list(
+  "The face has a distinctive 'nose' and face. Also the antennae are laying flush along the body:",
+  "This is a member of the **Pyraloidea** super-family.",
+  "The *Pyraloidea* are very variable but we can see that the long wings can wrap tightly around the body. Colloquially these are known as 'Grass moths, which are a member of the  subfamily **Crambinae**."
   
 )
 supporting.image <- "Pcontaminella-PML-2021.jpg"
@@ -183,9 +205,11 @@ beamer.bullets.by.image(Header.text = header.text,
 ```{r  warning=FALSE, message=FALSE, eval=TRUE}
 
 # Create two column beamer slide
-header.text <- "Following Branches Of The Tree"
+header.text <- "Getting To The Family 3"
 bullets.text <- list(
-"Now, the **Crambidae** family are very variable, but this moth is a member of the subfamily **Crambinae**, as the long wings can wrap tightly around the body. Colloquially these are known as 'Grass moths'.",
+  "The face has a distinctive 'nose' and face. Also the antennae are laying flush along the body:",
+  "This is a member of the **Pyraloidea** super-family.",
+  "The *Pyraloidea* are very variable but we can see that the long wings can wrap tightly around the body. Colloquially these are known as 'Grass moths, which are a member of the  subfamily **Crambinae**.",
 "*We have reduced the number of candidate species to about 17*."
   
   
@@ -252,16 +276,16 @@ beamer.bullets.by.image(Header.text = header.text,
 ```
 
 
+
 ```{r  warning=FALSE, message=FALSE, eval=TRUE}
 
 # Create two column beamer slide
-header.text <- "We know it is a **Crambinae** (Grass Moth)"
+header.text <- "The Set Specimen"
 bullets.text <- list(
-"Date: 2021-07-25, VC55; Recorder: Pete Leonard; Size: FL 12 mm.",
-"Could this be *Pediasia contaminella* which is rare in VC55?",
-"This specimen lacks the cross lines the dark point in the discal region typical of *Pediasia contaminella*.",
-"But *Pediasia contaminella* said to have a distinctive upwards resting posture."
-  
+"This specimen was fairly battered when it was received.",
+"Often the set moth reveals much more detail for ID, especially in obscurely marked moths.",
+"The wings still look very plain."
+
 )
 supporting.image <- "PJP20220218-0001a.jpg"
 supporting.text <- "The set moth does not reveal any useful features for ID."
@@ -274,7 +298,6 @@ beamer.bullets.by.image(Header.text = header.text,
 
 
 ```
-Specimens seen in Sussex by PJP were all well marked and instantly recognisable in both posture and appearance.
 
 
 
@@ -311,7 +334,7 @@ This process is loosely called *clarification* as it dissolves the soft tissues.
 header.text <- "Dissecting"
 bullets.text <- list(
 "The genitalia are very small so a range of bought and homemade tools are used to dissect out the parts needed.",
-"They are also very fragile, so you only get one chance on a moth this size.",
+"The parts are very fragile, so you only get one chance on a moth this size.",
 "No pressure when you are doing this for someone else!"
   
 )
@@ -357,13 +380,14 @@ beamer.bullets.by.image(Header.text = header.text,
 # Create two column beamer slide
 header.text <- "Ringing The Slide"
 bullets.text <- list(
-"Text",
-"Text.",
-"Text."
+"Aqueous mountant slowly dries out, so needs to be sealed.",
+"A ring of sealant will make the slide last many years.",
+"A paintbrush is used to apply the sealant while the brass wheel is spun by hand.",
+"Acetone can be used to remove the seal if rework is required."
   
 )
 supporting.image <- "slideringing.jpg"
-supporting.text <- "More  text"
+supporting.text <- "Good quality nail varnish works exceptionally well."
 
 beamer.bullets.by.image(Header.text = header.text,
                           heading.level = 1,
@@ -378,11 +402,10 @@ beamer.bullets.by.image(Header.text = header.text,
 ```{r  warning=FALSE, message=FALSE, eval=TRUE}
 
 # Create two column beamer slide
-header.text <- "Examination Under The Microscope"
+header.text <- "The Finished Dissection 1"
 bullets.text <- list(
-"Text",
-"Text.",
-"Text."
+  "The finshed dissection is never perfect.",
+"The final dissection image is more of an artform rather than a photograph."
   
 )
 supporting.image <- "PJP20220218-001-raw-dissection.jpg"
@@ -401,16 +424,16 @@ beamer.bullets.by.image(Header.text = header.text,
 ```{r  warning=FALSE, message=FALSE, eval=TRUE}
 
 # Create two column beamer slide
-header.text <- "The Finished Dissection"
+header.text <- "The Finished Dissection 2"
 bullets.text <- list(
-"Check the dissection against multiple sources as this specimen is not typical.",
-"https://mothdissection.co.uk",
-"https://lepiforum.org",
-"Ask someone who is familiar with the species."
+  "The finshed dissection is never perfect.",
+"The final dissection image is more of an artform rather than a photograph.",
+"An artist would eliminate the defects too, but don't obscure critical features."
+
   
 )
-supporting.image <- "PJP20220218-001-developed-dissection.jpg"
-supporting.text <- "Few keys for dissections."
+supporting.image <-  "PJP20220218-001-cleaned.jpg"
+supporting.text <- "Cleaned image."
 
 beamer.bullets.by.image(Header.text = header.text,
                           heading.level = 1,
@@ -420,6 +443,109 @@ beamer.bullets.by.image(Header.text = header.text,
 
 
 ```
+
+
+```{r  warning=FALSE, message=FALSE, eval=TRUE}
+
+# Create two column beamer slide
+header.text <- "The Finished Dissection 3"
+bullets.text <- list(
+  "The finshed dissection is never perfect.",
+"The final dissection image is more of an artform rather than a photograph.",
+"An artist would eliminate the defects too, but don't obscure critical features.",
+"The scale is worked out by taking a photograph of a reference slide....."
+
+  
+)
+supporting.image <-  "PJP20220218-001-getting-scale.jpg"
+supporting.text <- "Adding a scale."
+
+beamer.bullets.by.image(Header.text = header.text,
+                          heading.level = 1,
+                           Bullets.text = bullets.text,
+                           Supporting.image = supporting.image,
+                           Supporting.text = supporting.text )
+
+
+```
+
+
+
+```{r  warning=FALSE, message=FALSE, eval=TRUE}
+
+# Create two column beamer slide
+header.text <- "The Finished Dissection 4"
+bullets.text <- list(
+"The final dissection image is more of an artform rather than a photograph.",
+"An artist would eliminate the defects too, but don't obscure critical features.",
+"The scale is worked out by taking a photograph of a reference slide.....",
+"Overlaying the photgraphed scale allows us to draw a nice reference line. "
+
+  
+)
+supporting.image <- "PJP20220218-001-developed-dissection.jpg"
+supporting.text <- "The developed image."
+
+beamer.bullets.by.image(Header.text = header.text,
+                          heading.level = 1,
+                           Bullets.text = bullets.text,
+                           Supporting.image = supporting.image,
+                           Supporting.text = supporting.text )
+
+
+```
+
+
+```{r  warning=FALSE, message=FALSE, eval=TRUE}
+
+# Create two column beamer slide
+header.text <- "Review Everything We Know About The Specimen"
+bullets.text <- list(
+"Date: 2021-07-25, VC55; Recorder: Pete Leonard; Size: FL 12 mm.",
+"Could this be *Pediasia contaminella* which is rare in VC55?",
+"This specimen lacks the cross lines the dark point in the discal region typical of *Pediasia contaminella*.",
+"But *Pediasia contaminella* said to have a distinctive upwards resting posture."
+  
+)
+supporting.image <- "PJP20220218-0001a.jpg"
+supporting.text <- "The set moth does not reveal any useful features for ID."
+
+beamer.bullets.by.image(Header.text = header.text,
+                          heading.level = 1,
+                           Bullets.text = bullets.text,
+                           Supporting.image = supporting.image,
+                           Supporting.text = supporting.text )
+
+
+```
+Specimens seen in Sussex by PJP were all well marked and instantly recognisable in both posture and appearance.
+
+
+
+
+```{r  warning=FALSE, message=FALSE, eval=TRUE}
+
+# Create two column beamer slide
+header.text <- "Using The Dissection For ID"
+bullets.text <- list(
+"Check the dissection against multiple sources as this specimen is not typical.",
+"https://mothdissection.co.uk",
+"https://lepiforum.org",
+"Ask someone who is familiar with the species."
+  
+)
+supporting.image <- "research.jpg"
+supporting.text <- "Books often contain useful comments about variations."
+
+beamer.bullets.by.image(Header.text = header.text,
+                          heading.level = 1,
+                           Bullets.text = bullets.text,
+                           Supporting.image = supporting.image,
+                           Supporting.text = supporting.text )
+
+
+```
+
 
 
 
@@ -449,7 +575,7 @@ beamer.bullets.by.image(Header.text = header.text,
 ```{r  warning=FALSE, message=FALSE, eval=TRUE}
 
 # Create two column beamer slide
-header.text <- "To Recap"
+header.text <- "Summary"
 bullets.text <- list(
 "Identification of a tricky specimen is a tedious process.",
 "Most of the time it turns out to be an unusual form of a common species as moths are very variable in size and wing pattern.",
@@ -457,7 +583,7 @@ bullets.text <- list(
 "Confirming the ID of something unusual requires the collation of a lot of evidence."
   
 )
-supporting.image <- "placeholder.jpg"
+supporting.image <- "research.jpg"
 supporting.text <- "More  text"
 
 beamer.bullets.by.image(Header.text = header.text,
@@ -469,5 +595,5 @@ beamer.bullets.by.image(Header.text = header.text,
 
 ```
 
-*But sometimes you get lucky!*
+*But sometimes you get lucky and it is a new record for the county!*
 
