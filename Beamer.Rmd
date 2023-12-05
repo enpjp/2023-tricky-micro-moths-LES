@@ -18,8 +18,8 @@ output:
 # What Is A Micro-moth?
 -   This is a tricky question to answer as there no taxonomic difference, as in butterflies and moths. Even that is a bit blurred.
 -   So far as I can tell, the larger moths are those that were described in South vols 1 and 2 "The Moths of the British Isles", and the rest are the micro-moths.
--   In the olden days when we used a light trap there we so many large moths that we were never tempted by the micro's that were trampled by the *Noctua pronuba* (Large Yellow Underwing) which came in their hundreds.
--   Micro's were collected by rearing out series collected off food plants and mines.
+-   In the olden days when we used a light trap there we so many large moths that we were never tempted by the micros that were trampled by the *Noctua pronuba* (Large Yellow Underwing) which came in their hundreds.
+-   Micros were collected by rearing out series collected off food plants and mines.
 -   The first (and current) editions of "The Field Guide To The Smaller Lepidoptera" contain no illustrations of adult moths at all.
 
 # Wot! No Illustrations?
@@ -30,7 +30,7 @@ Don't worry, I will use them later in this presentation.
 -  Adults were set and pinned as a "series".
 -   Just to emphasise, you had to be really proficient with your plant identification too.
 -   My old copy of Clapham, Tutin, and Warburgh "The Excursion Flora Of The British Isle" was also without images.
--   To those of you only used to modern illustrated field guides this must sound very strange, but the point I make is that a good identification is based on a collection of evidence which is used to eliminate all but one possibility.
+-   To those of you only used to modern illustrated field guides this must sound very strange, but the point I make is that a good identification is based on a collection of evidence, not a match to an image.
 
 
 
@@ -46,7 +46,7 @@ bullets.text <- list(
   
 )
 supporting.image <- "micro-field-guide.jpg"
-supporting.text <- "Field Guide to the Micro Moths"
+supporting.text <- "Field Guide to the Micro-moths"
 
 beamer.bullets.by.image(Header.text = header.text,
                           heading.level = 1,
@@ -71,7 +71,7 @@ bullets.text <- list(
   
 )
 supporting.image <- "micro-lep-key.jpg"
-supporting.text <- "A key to the Micro Moths"
+supporting.text <- "A key to the Micro-moths"
 
 beamer.bullets.by.image(Header.text = header.text,
                           heading.level = 1,
@@ -216,7 +216,7 @@ bullets.text <- list(
   
 )
 supporting.image <- "subfamily.jpg"
-supporting.text <- "*The Natural History Museum futher subdivide this group into tribes, but these do not seem to be in general use*."
+supporting.text <- "*The Natural History Museum further subdivide this group into tribes, but these do not seem to be in general use*."
 
 beamer.bullets.by.image(Header.text = header.text,
                           heading.level = 1,
@@ -334,7 +334,7 @@ This process is loosely called *clarification* as it dissolves the soft tissues.
 # Create two column beamer slide
 header.text <- "Dissecting"
 bullets.text <- list(
-"The genitalia are very small so a range of bought and homemade tools are used to dissect out the parts needed.",
+"The genitalia are very small so a range of bought and home-made tools are used to dissect out the parts needed.",
 "The parts are very fragile, so you only get one chance on a moth this size.",
 "No pressure when you are doing this for someone else!"
   
@@ -407,8 +407,8 @@ beamer.bullets.by.image(Header.text = header.text,
 # Create two column beamer slide
 header.text <- "The Finished Dissection 1"
 bullets.text <- list(
-  "The finshed dissection is never perfect.",
-"The final dissection image is more of an artform rather than a photograph."
+  "The finished dissection is never perfect.",
+"The final dissection image is more of an art form rather than a photograph."
   
 )
 supporting.image <- "PJP20220218-001-raw-dissection.jpg"
@@ -429,8 +429,8 @@ beamer.bullets.by.image(Header.text = header.text,
 # Create two column beamer slide
 header.text <- "The Finished Dissection 2"
 bullets.text <- list(
-  "The finshed dissection is never perfect.",
-"The final dissection image is more of an artform rather than a photograph.",
+  "The finished dissection is never perfect.",
+"The final dissection image is more of an art form rather than a photograph.",
 "An artist would eliminate the defects too, but don't obscure critical features."
 
   
@@ -453,8 +453,8 @@ beamer.bullets.by.image(Header.text = header.text,
 # Create two column beamer slide
 header.text <- "The Finished Dissection 3"
 bullets.text <- list(
-  "The finshed dissection is never perfect.",
-"The final dissection image is more of an artform rather than a photograph.",
+  "The finished dissection is never perfect.",
+"The final dissection image is more of an art form rather than a photograph.",
 "An artist would eliminate the defects too, but don't obscure critical features.",
 "The scale is worked out by taking a photograph of a reference slide....."
 
@@ -479,10 +479,11 @@ beamer.bullets.by.image(Header.text = header.text,
 # Create two column beamer slide
 header.text <- "The Finished Dissection 4"
 bullets.text <- list(
-"The final dissection image is more of an artform rather than a photograph.",
+  "The finished dissection is never perfect.",
+"The final dissection image is more of an art form rather than a photograph.",
 "An artist would eliminate the defects too, but don't obscure critical features.",
 "The scale is worked out by taking a photograph of a reference slide.....",
-"Overlaying the photgraphed scale allows us to draw a nice reference line. "
+"Overlaying the photographed scale allows us to draw a nice reference line. "
 
   
 )
@@ -557,13 +558,14 @@ beamer.bullets.by.image(Header.text = header.text,
 # Create two column beamer slide
 header.text <- "Checking The ID"
 bullets.text <- list(
-"The dissection is compared with other close relatives.",
-"We try to eliminate related species not on the UK list.",
+"The dissection matches *Pediasia contaminella* and is distinct from other members of the genus. ",
+"We need to eliminate related species not on the UK list as the specimen is not typical.",
 "In this case we find no other candidates other than: *Pediasia contaminella.*"
+
   
 )
-supporting.image <- "species.jpg"
-supporting.text <- " "
+supporting.image <- "PJP20220218-001-developed-dissection.jpg"
+supporting.text <- "The horned processes and aedeagus are typical for *Pediasia contaminella.* "
 
 beamer.bullets.by.image(Header.text = header.text,
                           heading.level = 1,
@@ -587,7 +589,7 @@ bullets.text <- list(
   
 )
 supporting.image <- "research.jpg"
-supporting.text <- "More  text"
+supporting.text <- "We still need to check books and published papers."
 
 beamer.bullets.by.image(Header.text = header.text,
                           heading.level = 1,
