@@ -106,7 +106,7 @@ beamer.bullets.by.image(Header.text = header.text,
 
 ```
 
-We will illustrate the ID process by following one moth tricky moth through its journey.
+We will illustrate the ID process by following one tricky moth through its journey.
 
 
 ```{r  warning=FALSE, message=FALSE, eval=TRUE}
@@ -310,7 +310,7 @@ beamer.bullets.by.image(Header.text = header.text,
 header.text <- "Clarification"
 bullets.text <- list(
 "The abdomen is removed from the moth and 'cooked' for 30 minutes at 70 degrees in 10% KOH.",
-"A label is place in the tube using paper and ink that can survive this process.",
+"A label is placed in the tube using paper and ink that can survive this process.",
 "A body swap would be a disaster."
 
   
