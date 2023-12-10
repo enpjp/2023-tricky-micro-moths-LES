@@ -2,7 +2,6 @@
 title: "Identifying Those Tricky Little Micro-moths"
 author: Paul J. Palmer
 output: 
-  powerpoint_presentation: default
   beamer_presentation:
     theme: "AnnArbor"
     colortheme: "dolphin"
@@ -11,6 +10,7 @@ output:
     includes:
           in_header: "preamble.tex" 
     keep_tex:  true
+  powerpoint_presentation: default
 ---
 
 ```{r child = "_header.Rmd"}
@@ -561,7 +561,8 @@ header.text <- "Checking The ID"
 bullets.text <- list(
 "The dissection matches *Pediasia contaminella* and is distinct from other members of the genus. ",
 "We need to eliminate related species not on the UK list as the specimen is not typical.",
-"In this case we find no other candidates other than: *Pediasia contaminella.*"
+"In this case we find no other candidates other than: *Pediasia contaminella.*",
+"*Pediasia contaminella* has been previously recorded a few times in VC55. "
 
   
 )
