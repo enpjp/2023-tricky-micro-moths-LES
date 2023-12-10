@@ -2,6 +2,7 @@
 title: "Identifying Those Tricky Little Micro-moths"
 author: Paul J. Palmer
 output: 
+  powerpoint_presentation: default
   beamer_presentation:
     theme: "AnnArbor"
     colortheme: "dolphin"
@@ -10,7 +11,6 @@ output:
     includes:
           in_header: "preamble.tex" 
     keep_tex:  true
-  powerpoint_presentation: default
 ---
 
 ```{r child = "_header.Rmd"}
